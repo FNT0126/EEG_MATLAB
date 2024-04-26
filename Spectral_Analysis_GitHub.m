@@ -626,7 +626,7 @@ mycolor = flipud(othercolor('RdBu10'));
 % Delta pre
 figure
 topoplot(delta_psd1_avg, EEG_chanlocs1,'maplimits',[1 5.5],'colormap',mycolor, ...
-'electrodes','off','numcontour',6,'shading','interp');
+'plotrad',0.514,'electrodes','off','numcontour',6,'shading','interp');
 % title('Delta pre', 'fontsize', 14, 'FontName', en);
 fig = gcf;
 lineobj = findobj(fig,'type','line');
