@@ -7,5 +7,5 @@ This repository contains code and related files for EEG spectral analysis, DA, S
 ## Model testing
 * Add all functions in the "Model" folder to the MATLAB path.
 * Store test_data as "all_psd" variable.
-* 
+
 **Please contact FNT18470537016@163.com if you have any questions or suggestions.**
