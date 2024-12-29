@@ -881,4 +881,4 @@ all_psd2 = [F_delta_psd2,F_theta_psd2,F_alpha1_psd2,F_alpha2_psd2,F_beta1_psd2,F
     labels1];
     
 all_psd_2  = [all_psd1;all_psd2];
-save("all_psd.mat","all_psd_2")
+save("all_psd_2.mat","all_psd_2")
